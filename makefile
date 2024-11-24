@@ -1,7 +1,7 @@
 greedy:
-	gcc greedy.c
+	gcc '.\Greedy Algorithm\greedy.c'
 	./a.exe
 
-multiple:
-	gcc least_common_multiple.c
-	./a/exe
+gcd:
+	gcc '.\Greatest Common Divisor\gcd.c'
+	./a.exe
